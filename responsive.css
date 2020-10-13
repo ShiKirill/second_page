@@ -75,7 +75,7 @@
 @media screen and (max-height: 442px){
     .right_background{
 
-        bottom: -20rem;
+        bottom: -22rem;
         height: 60%;
         
     }
@@ -83,7 +83,7 @@
 @media screen and (max-height: 381px){
     .right_background{
 
-        bottom: -24rem;
+        bottom: -26rem;
         height: 70%;
     }
 }

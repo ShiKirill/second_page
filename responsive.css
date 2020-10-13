@@ -44,3 +44,40 @@
         box-shadow: 0.5rem 1rem 1rem rgb(20,20,20,0.2) ;
     }
 }
+@media screen and (max-height: 620px){
+    .right_background{
+        padding: 0;
+        bottom: -5rem;
+        height: 60%;
+    }
+}
+@media screen and (max-height: 560px){
+    .right_background{
+
+        bottom: -10rem;
+        height: 50%;
+    }
+}
+@media screen and (max-height: 500px){
+    .right_background{
+
+        bottom: -15rem;
+        height: 55%;
+
+    }
+}
+@media screen and (max-height: 442px){
+    .right_background{
+
+        bottom: -20rem;
+        height: 60%;
+        
+    }
+}
+@media screen and (max-height: 381px){
+    .right_background{
+
+        bottom: -24rem;
+        height: 70%;
+    }
+}

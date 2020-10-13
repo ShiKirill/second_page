@@ -64,10 +64,17 @@
         height: 50%;
     }
 }
+@media screen and (max-height: 530px){
+    .right_background{
+
+        bottom: -13rem;
+        height: 50%;
+    }
+}
 @media screen and (max-height: 500px){
     .right_background{
 
-        bottom: -15rem;
+        bottom: -16rem;
         height: 55%;
 
     }

@@ -8,6 +8,9 @@
     html{
         font-size: 85%;
     }
+    .main_block{
+        height: 45rem;
+    }
     .left_background,
     .right_background{
         width: 50%;
@@ -39,6 +42,9 @@
 @media screen and (max-width:350px){
     html{
         font-size: 75%;
+    }
+    .main_block{
+        height: 50rem;
     }
     .phone{
         box-shadow: 0.5rem 1rem 1rem rgb(20,20,20,0.2) ;
